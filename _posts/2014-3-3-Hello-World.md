@@ -1,7 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: New test title!
 ---
+
+# This is a header!
+
+Here is text. Here is a [link](http://thisismetis.com/)!
+
+ * This
+ * is
+ * a
+ * list
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
